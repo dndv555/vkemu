@@ -1,4 +1,4 @@
-![Go](https://img.shields.io/badge/Go-1.24-blue)
+![Go](https://img.shields.io/badge/Go-1.27.1-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-3-green)
 ![DeepSeek](https://img.shields.io/badge/AI-DeepSeek%20V4.1%20Flash-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
