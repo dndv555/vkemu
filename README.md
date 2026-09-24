@@ -1,3 +1,8 @@
+![Go](https://img.shields.io/badge/Go-1.24-blue)
+![SQLite](https://img.shields.io/badge/SQLite-3-green)
+![DeepSeek](https://img.shields.io/badge/AI-DeepSeek%20V4.1%20Flash-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 # vkemu
 
 Эмулятор серверного API старого клиента VK для Android (`api_id=2274003`, API `3.0`,
